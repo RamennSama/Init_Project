@@ -1,0 +1,4 @@
+- npx create-react-app my-app
+=> tao du an react ten la : my-app
+
+- tao du an rat lau, nen tu template tai len github sau do import ve may
